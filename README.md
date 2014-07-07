@@ -1,4 +1,10 @@
 obi-bug-finder
 ==============
 
-Oracle BI EE Regression Testing Tool Version 1.0.0.0.
+Oracle BI EE Regression Testing Tool OBIBugFinder Version 1.0.0.0.
+
+Software development in twenty first century is no longer a yearlong activity. Iterative software development models and agile methodology have changed the whole concept of development in the past decade. Business stake holders no longer have to wait for months or even years to see the first outcome of their ordered applications. Base applications are now built in a few months and published to the end users as soon as physically possible. Once the initial version takes its place new requirements are surfaced from day to day use. Eventually these new requirements are added to the application in a phase by phase manner depending on their priority and usability. 
+
+This agile technique gives business stake holders more control on the final product but throws a big challenge to the application testers. Ensuring completeness and accuracy of existing features become more and more complex with every new release and within just couple of releases it becomes almost impossible to test all the test cases within the short span of testing cycle. The probable remedy is either to stretch the test cycle to a longer period of time with every new release or compromise with the full scale regression testing. The first option is completely opposite to agile methodology and thus should be avoided at all cost. On the other hand compromised testing can lead to unforeseen issues in the application causing mistrust of the end users.  Thus these remedies will always fail in long run. The only solution is to this problem is to perform full scale regression testing of the application using some cost effective automated tool. 
+
+This document will focus on the use of a simple regression testing tool “BugFinder” developed for automated OBI EE report testing.  This tool will give an environment where testers can build reusable test cases and execute them periodically to ensure the correctness of the application.
